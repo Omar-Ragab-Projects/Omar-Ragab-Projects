@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Omar Ragab
 - 👀 I’m interested in Web Devoloping
-- 🌱 Currently learning JavaScript
+- 🌱 Currently learning JavaScript Framework
 - 📫 Contact me on "https://www.linkedin.com/in/omarragab/"
 
 <!---
