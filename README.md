@@ -1,5 +1,4 @@
-Hi, I’m Omar Ragab,
-I am web developer.
+Web developer.
 
 Contact me on: "https://www.linkedin.com/in/omarragab/"
 
