@@ -1,9 +1,8 @@
 # 👋 Hi, I'm Omar Ragab
 
-Frontend Developer with solid experience in building **scalable, responsive web applications** using **React and Next.js**.  
-I focus on **clean, maintainable code**, performance optimization, and delivering smooth user experiences.
+**Frontend Developer & Odoo Functional Consultant / Developer**  
+Building **scalable web applications** and **custom ERP solutions** that seamlessly bridge modern user interfaces with robust enterprise logic.
 
-📍 Dakahlia, Egypt  
 📧 tryragab@gmail.com  
 🌐 https://omarragab.dev  
 💼 https://www.linkedin.com/in/omarragab/  
@@ -13,34 +12,32 @@ I focus on **clean, maintainable code**, performance optimization, and deliverin
 
 ## 🚀 About Me
 
-- Frontend Developer with hands-on experience in **Next.js, TypeScript, and modern React**
-- Strong background in **API integration, state management, and dashboards**
-- Experienced in building **admin panels, e-commerce platforms, and role-based systems**
-- Passionate about **performance, reusability, and clean architecture**
-- Freelance experience with **international clients** (Top Rated on Upwork ⭐)
+- **Frontend Architecture:** Specialized in **React, Next.js, TypeScript**, and state management to build high-performance web applications, admin panels, and dynamic dashboards.
+- **Odoo ERP Systems:** Hands-on expertise in **business process analysis, custom module development, system integration, and workflow optimization** using Python, XML, and PostgreSQL.
+- **Freelance & Client Success:** Freelance experience with international clients (**Top Rated on Upwork ⭐**) delivering clean, reliable software solutions.
+- **Engineering Philosophy:** Focused on **clean code, reusability, performance optimization**, and aligning software design with business operations.
 
 ---
 
 ## 🛠️ Tech Stack
 
-**Frontend**
-- React, Next.js
-- TypeScript (ES6+)
-- Tailwind CSS, Bootstrap, CSS Modules
-- Redux Toolkit, TanStack Query
+### 💻 Frontend Development
+- **Core & Frameworks:** React, Next.js, Vue.js, JavaScript (ES6+), TypeScript
+- **Styling & UI:** Tailwind CSS, Bootstrap, CSS Modules
+- **State & Data Management:** Redux Toolkit, TanStack Query
 
-**Testing & Tools**
-- Jest
-- Git & GitHub
+### ⚙️ ERP & Backend Systems
+- **Odoo ERP:** Custom Module Development, Business Process Analysis, Odoo ORM, XML Views
+- **Languages:** Python, Node.js, C++
+- **Databases & BaaS:** PostgreSQL, Supabase, SQL
 
-**Other**
-- SQL (Basics)
-- C++
-- Supabase
+### 🛠️ Testing, Tools & Design
+- **Version Control & Testing:** Git, GitHub, Jest
+- **Design & Fundamentals:** Figma (UI/UX Essentials), Database Fundamentals
 
 ---
 
 ## 🌍 Languages
 
-- Arabic — Native
-- English — Upper Intermediate
+- **Arabic:** Native  
+- **English:** Upper Intermediate
